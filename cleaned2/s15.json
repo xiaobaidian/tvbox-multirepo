@@ -100,20 +100,6 @@
    "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
   },
   {
-   "key": "csp_Wogg",
-   "name": "😁玩偶┃哥哥",
-   "type": 3,
-   "api": "csp_Wogg",
-   "searchable": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "sites": "https://wogg.xxooo.cf",
-    "proxy": "noproxy"
-   },
-   "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
-  },
-  {
    "key": "csp_YHDM",
    "name": "😍樱花┃动漫",
    "type": 3,
@@ -382,16 +368,6 @@
    "name": "🤒盘友┃搜索",
    "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/py/盘友圈.py",
    "filterable": 1,
-   "quickSearch": 1,
-   "searchable": 1,
-   "type": 3,
-   "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
-  },
-  {
-   "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/py/米盘搜.py",
-   "filterable": 1,
-   "key": "py_米盘搜",
-   "name": "😳米盘┃搜索",
    "quickSearch": 1,
    "searchable": 1,
    "type": 3,
