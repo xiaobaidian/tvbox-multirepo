@@ -351,21 +351,6 @@
    "quickSearch": 1
   },
   {
-   "key": "drpy_js_愛盤搜",
-   "name": "爱盘搜[js]|夸",
-   "type": 3,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./js/aipanso.js",
-   "quickSearch": 1,
-   "changeable": 1,
-   "timeout": 60,
-   "style": {
-    "type": "list",
-    "ratio": 1.1
-   },
-   "jar": "https://xn--i8sz35d1yr.top/PG/pg.jar"
-  },
-  {
    "key": "drpy_js_人人影视",
    "name": "人人影视[js]|搜",
    "type": 3,
@@ -677,15 +662,6 @@
    "changeable": 1,
    "ext": "https://www.duanjutv.icu",
    "jar": "https://xn--i8sz35d1yr.top/PG/pg.jar"
-  },
-  {
-   "key": "MV_vod",
-   "name": "电视┃MTV",
-   "type": 1,
-   "api": "https://mv.wogg.link/mv/vod",
-   "searchable": 1,
-   "quickSearch": 0,
-   "changeable": 0
   },
   {
    "key": "酷狗",
