@@ -9,7 +9,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/五点短剧.json"
+      "ext": "./json/五点短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨乾坤短剧✨",
@@ -19,7 +20,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/乾坤短剧.json"
+      "ext": "./json/乾坤短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "py_星芽短剧APP",
@@ -28,7 +30,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "type": 3
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "py_河马短剧APP",
@@ -37,7 +40,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "type": 3
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "py_西饭短剧APP",
@@ -46,7 +50,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "type": 3
+      "type": 3,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨稀饭短剧✨",
@@ -56,7 +61,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/稀饭短剧.json"
+      "ext": "./json/稀饭短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨网飞短剧✨",
@@ -66,7 +72,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/网飞短剧.json"
+      "ext": "./json/网飞短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "短剧好看",
@@ -83,7 +90,8 @@
         "跳转播放链接": "var player_*\"url\":\"&&\"",
         "搜索url": "http://duanjuhk.com/vodsearch/page/{pg}/wd/{wd}.html",
         "搜索模式": "1"
-      }
+      },
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "低端影视",
@@ -120,7 +128,8 @@
         "年份值": "*",
         "排序": "更新时间&最多播放&实时热门&近期热播&新片上线&最高评分",
         "排序值": "time&hits&hits_day&hits_week&year&score"
-      }
+      },
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨白羊短剧✨",
@@ -130,7 +139,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/白羊短剧.json"
+      "ext": "./json/白羊短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "熊猫短剧",
@@ -163,7 +173,8 @@
         "剧情": "",
         "年份": "1950-2025",
         "年份值": "*"
-      }
+      },
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨八戒短剧✨",
@@ -173,7 +184,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/八戒短剧.json"
+      "ext": "./json/八戒短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨趣映坊短剧✨",
@@ -183,7 +195,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/趣映坊短剧.json"
+      "ext": "./json/趣映坊短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨明星短剧✨",
@@ -193,7 +206,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/明星短剧.json"
+      "ext": "./json/明星短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨开尔短剧✨",
@@ -203,7 +217,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/开尔短剧.json"
+      "ext": "./json/开尔短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨全能短剧✨",
@@ -213,7 +228,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/全能短剧.json"
+      "ext": "./json/全能短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨影院王✨",
@@ -223,7 +239,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/短剧王.json"
+      "ext": "./json/短剧王.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨热播影院✨",
@@ -233,7 +250,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/热播短剧.json"
+      "ext": "./json/热播短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "OK短剧",
@@ -253,7 +271,8 @@
         "跳转播放链接": "var player_*\"url\":\"&&\"",
         "分类url": "http://okfrp.com/show/{cateId}-----{letter}---{catePg}---{year}.html",
         "分类": "女频恋爱$nvpinlianai#反转爽剧$fanzhuanshuangju#脑洞悬疑$naodongxuanyi#年代穿越$niandaichuanyue#古装仙侠$guzhuangxianxia#现代都市$xiandaidushi"
-      }
+      },
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨影视大全1✨",
@@ -279,7 +298,8 @@
         "简介": "✨乐哥为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+简介：&&</div>",
         "分类url": "/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=30",
         "分类": "重生民国$37&穿越年代$38&现代言情$39&反转爽文$40&女恋总裁$41&闪婚离婚$42&都市脑洞$43&古装仙侠$44"
-      }
+      },
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨HG短剧✨",
@@ -300,7 +320,8 @@
         "分类": "古装&虐恋&逆袭&悬疑&神豪&重生&反转&穿越&总裁&甜宠&言情&爽文&女恋&都市&脑洞&仙侠",
         "分类值": "*",
         "简介": "👉请不要相信视频中的广告，以免上当受骗！+<p>&&</p>"
-      }
+      },
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨奶茶影院✨",
@@ -310,7 +331,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/奶茶短剧.json"
+      "ext": "./json/奶茶短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨电影100影院✨",
@@ -320,7 +342,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/电影100短剧.json"
+      "ext": "./json/电影100短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨麦田影院✨",
@@ -330,7 +353,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/麦田短剧.json"
+      "ext": "./json/麦田短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨唐人街影院✨",
@@ -340,7 +364,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/唐人街短剧.json"
+      "ext": "./json/唐人街短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨天龙影院✨",
@@ -350,7 +375,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/天龙短剧.json"
+      "ext": "./json/天龙短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨追剧网✨",
@@ -360,21 +386,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/追剧短剧.json"
+      "ext": "./json/追剧短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "追剧影院1",
       "name": "✨追剧短剧1✨乐哥甄选✨",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/追剧短剧1.json"
+      "ext": "./json/追剧短剧1.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "追剧网1",
       "name": "✨追剧短剧2✨乐哥甄选✨",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./json/追剧短剧2.json"
+      "ext": "./json/追剧短剧2.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨一起看✨",
@@ -384,7 +413,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/一起看短剧.json"
+      "ext": "./json/一起看短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨七味短剧✨",
@@ -394,13 +424,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/七味短剧.json"
+      "ext": "./json/七味短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "优影视",
       "name": "✨优短剧✨乐哥甄选✨",
       "type": 3,
-      "jar": "./jar/sjc.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/sjc.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -415,7 +446,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/量子短剧.json"
+      "ext": "./json/量子短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "护航短剧",
@@ -441,7 +473,8 @@
         "简介": "✨指间的黑客为您介绍剧情✨+讲述了:&&\">[替换:style type=\"text/css>>空]",
         "分类url": "https://www.qdhuhang.com/qdhyl/{cateId}-{catePg}.html",
         "分类": "女频剧$49#反转剧$50#穿越剧$51#古装剧$52#都市剧$53#脑洞剧$54#爽文剧$55"
-      }
+      },
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨安迪短剧✨",
@@ -451,7 +484,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/安迪短剧.json"
+      "ext": "./json/安迪短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨PTT短剧✨",
@@ -461,7 +495,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/PTT短剧.json"
+      "ext": "./json/PTT短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨老王影院✨",
@@ -471,7 +506,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/老王短剧.json"
+      "ext": "./json/老王短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨毒舌短剧✨",
@@ -481,7 +517,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/毒舌短剧.json"
+      "ext": "./json/毒舌短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "✨微云影视✨",
@@ -491,7 +528,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/微云短剧.json"
+      "ext": "./json/微云短剧.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     },
     {
       "key": "闪闪音乐网",
@@ -501,7 +539,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/闪闪音乐网.json"
+      "ext": "./json/闪闪音乐网.json",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/jar/xyqxbpq.jar"
     }
   ],
   "lives": [
