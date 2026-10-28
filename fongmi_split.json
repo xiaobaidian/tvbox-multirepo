@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "name": "FongMi源①",
+      "url": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/fongmi_single_1.json"
+    },
+    {
+      "name": "FongMi源②",
+      "url": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/fongmi_single_2.json"
+    }
+  ]
+}
