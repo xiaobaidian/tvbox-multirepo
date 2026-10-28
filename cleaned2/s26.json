@@ -94,17 +94,6 @@
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar"
   },
   {
-   "key": "csp_XYQHikerAL_玩偶哥哥",
-   "name": "📀玩偶哥哥(优)",
-   "type": 3,
-   "api": "csp_XYQHikerAL",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./XYQHiker/玩偶哥哥.json",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar"
-  },
-  {
    "key": "csp_Mp4Mov",
    "name": "🧲Mp4电影",
    "type": 3,
