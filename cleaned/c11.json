@@ -18,7 +18,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "./lib/alibaba.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/lib/alibaba.jar"
     },
     {
       "key": "玩偶哥哥",
@@ -28,35 +28,40 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "芒果",
       "name": "🐅小脑斧┃芒芒",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/mangguo.js"
+      "ext": "./lib/mangguo.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "爱奇异",
       "name": "🐅小脑斧┃奇异",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/aiqiyi.js"
+      "ext": "./lib/aiqiyi.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "优酷",
       "name": "🐅小脑斧┃游酷",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/youku.js"
+      "ext": "./lib/youku.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "腾讯",
       "name": "🐅小脑斧┃企鹅",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/tengxun.js"
+      "ext": "./lib/tengxun.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "csp_AList",
@@ -67,7 +72,8 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/HyxuanAlist.json"
+      "ext": "./lib/HyxuanAlist.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "车妹",
@@ -77,14 +83,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "drpy_js_两个BT",
       "name": "🐅小脑斧┃2BT",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/两个BT.js"
+      "ext": "./lib/两个BT.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "南瓜",
@@ -94,7 +102,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "贱贱",
@@ -105,7 +114,8 @@
       "changeable": 1,
       "playerType": "1",
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jp.js"
+      "ext": "./lib/jp.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "csp_Nmys",
@@ -115,7 +125,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./lib/nmys.json"
+      "ext": "./lib/nmys.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "csp_Bttoo",
@@ -124,7 +135,8 @@
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "77",
@@ -133,7 +145,8 @@
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "meowtv_nmys",
@@ -143,7 +156,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./lib/农民影视.json"
+      "ext": "./lib/农民影视.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "橘子",
@@ -153,14 +167,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A=",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "畅梦",
       "name": "🐅小脑斧┃畅梦",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/changmeng.js"
+      "ext": "./lib/changmeng.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "Auete",
@@ -170,7 +186,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://haozhansou.com/"
+      "ext": "https://haozhansou.com/",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "一起看 ",
@@ -179,7 +196,8 @@
       "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "索尼资源",
@@ -230,7 +248,8 @@
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/厂长.js"
+      "ext": "./lib/厂长.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "88js",
@@ -244,7 +263,8 @@
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "csp_qiumi",
@@ -258,14 +278,15 @@
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "XBPQ_葡萄",
       "name": "🐅小脑斧┃葡萄短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/duo.jar",
       "ext": {
         "数组": "class=\"stui-vodlist__box&&</li",
         "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
@@ -293,14 +314,16 @@
         "数组": "class=\"stui-vodlist__box&&</li",
         "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
         "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
-      }
+      },
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "drpy_js_短剧网",
       "name": "🐅小脑斧┃短剧网",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/短剧网.js"
+      "ext": "./lib/短剧网.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "戏曲杂苑",
@@ -310,7 +333,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/哔哩戏曲.json"
+      "ext": "./lib/哔哩戏曲.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "相声小品",
@@ -320,7 +344,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/哔哩相声.json"
+      "ext": "./lib/哔哩相声.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "MV_vod",
@@ -346,7 +371,8 @@
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "YiSo",
@@ -356,7 +382,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "PanSou",
@@ -366,7 +393,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "UpYun",
@@ -376,7 +404,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "七夜",
@@ -386,7 +415,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "Bili",
@@ -400,7 +430,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/bilibili.json"
+      "ext": "./lib/bilibili.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "dr_兔小贝",
@@ -414,7 +445,8 @@
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "少儿教育",
@@ -428,7 +460,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/少儿教育.json"
+      "ext": "./lib/少儿教育.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "小学课堂",
@@ -442,7 +475,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/小学课堂.json"
+      "ext": "./lib/小学课堂.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "初中课堂",
@@ -456,7 +490,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/初中课堂.json"
+      "ext": "./lib/初中课堂.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "高中教育",
@@ -470,7 +505,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/高中课堂.json"
+      "ext": "./lib/高中课堂.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     },
     {
       "key": "cc",
@@ -478,7 +514,8 @@
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
-      "quickSearch": 0
+      "quickSearch": 0,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xnftv/xnf/main/spider.jar"
     }
   ],
   "parses": [
