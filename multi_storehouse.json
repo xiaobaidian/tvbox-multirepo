@@ -2,7 +2,7 @@
   "storeHouse": [
     {
       "sourceName": "软件哥哥",
-      "sourceUrl": "http://47.96.82.41:8/api.json"
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/ruanjian-gege.json"
     },
     {
       "sourceName": "my interface",
