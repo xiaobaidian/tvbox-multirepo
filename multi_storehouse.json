@@ -1,336 +1,240 @@
 {
   "storeHouse": [
     {
-      "sourceName": "动漫城接口",
-      "sourceUrl": "https://www.yingm.cc/dm/dm.json"
-    },
-    {
-      "sourceName": "俊佬线路",
-      "sourceUrl": "http://home.jundie.top:81/top98.json"
-    },
-    {
-      "sourceName": "盒子迷PG在线包",
-      "sourceUrl": "https://xn--i8sz35d1yr.top/PG/jsm.json"
+      "sourceName": "王二小🐮",
+      "sourceUrl": "https://9280.kstore.vip/aiwex.json"
     },
     {
       "sourceName": "嗷呜备用",
       "sourceUrl": "https://9763.kstore.vip/aowu.json"
     },
     {
-      "sourceName": "王二小",
-      "sourceUrl": "https://9280.kstore.vip/newwex.json"
-    },
-    {
-      "sourceName": "王二小",
-      "sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/wangerxiao.json"
-    },
-    {
-      "sourceName": "小盒子单仓",
-      "sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/xiaohezi.json"
-    },
-    {
-      "sourceName": "二月红接口",
-      "sourceUrl": "https://700sjro44343.vicp.fun/eggp/0211/tv.json"
-    },
-    {
-      "sourceName": "牛二",
-      "sourceUrl": "https://9280.kstore.space/newwex.json"
-    },
-    {
-      "sourceName": "Clun在线",
-      "sourceUrl": "https://clun.top/box.json"
-    },
-    {
-      "sourceName": "摸鱼儿",
-      "sourceUrl": "https://6800.kstore.vip/fish.json"
-    },
-    {
-      "sourceName": "牛儿",
-      "sourceUrl": "https://9280.kstore.space/wex.json"
-    },
-    {
-      "sourceName": "11号托管源",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
-    },
-    {
-      "sourceName": "肥猫",
-      "sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/feimao.json"
-    },
-    {
-      "sourceName": "老刘📚拾光仓库",
-      "sourceUrl": "https://raw.liucn.cc/box/m.json"
-    },
-    {
-      "sourceName": "老刘备",
-      "sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/laoliubei.json"
-    },
-    {
-      "sourceName": "荐片",
-      "sourceUrl": "https://tv.203511.xyz/0821.json"
-    },
-    {
-      "sourceName": "潇洒",
-      "sourceUrl": "https://qist.wyfc.qzz.io/xiaosa/api.json"
-    },
-    {
-      "sourceName": "饭太硬",
-      "sourceUrl": "https://qist.wyfc.qzz.io/fty.json"
-    },
-    {
-      "sourceName": "神秘大佬",
-      "sourceUrl": "https://g.33445500.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json"
-    },
-    {
-      "sourceName": "香雅情",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-    },
-    {
-      "sourceName": "南风2",
-      "sourceUrl": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
-    },
-    {
-      "sourceName": "潇洒Github备用",
-      "sourceUrl": "https://g.33445500.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json"
+      "sourceName": "网络🤓",
+      "sourceUrl": "https://8815.kstore.vip/tvbox/wmz"
     },
     {
       "sourceName": "茄子库",
       "sourceUrl": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json"
     },
     {
-      "sourceName": "dxawi线路",
-      "sourceUrl": "http://dxawi.github.io/0/0.json"
+      "sourceName": "俊佬线路",
+      "sourceUrl": "http://home.jundie.top:81/top98.json"
     },
     {
-      "sourceName": "金鹰",
-      "sourceUrl": "http://550.3vcn.work/wdjyys.json"
-    },
-    {
-      "sourceName": "南风3",
-      "sourceUrl": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json"
-    },
-    {
-      "sourceName": "摸鱼",
-      "sourceUrl": "https://play.iptv365.org/%E6%91%B8%E9%B1%BC%E5%84%BF/api.json"
-    },
-    {
-      "sourceName": "高天流云",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
-    },
-    {
-      "sourceName": "荷城茶秀3",
-      "sourceUrl": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json"
-    },
-    {
-      "sourceName": "七夏",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.json"
-    },
-    {
-      "sourceName": "小马",
-      "sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/xiaoma.json"
-    },
-    {
-      "sourceName": "短剧2",
-      "sourceUrl": "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json"
-    },
-    {
-      "sourceName": "小盒子单仓",
-      "sourceUrl": "http://xhztv.top/xhz"
-    },
-    {
-      "sourceName": "小米2",
-      "sourceUrl": "https://play.iptv365.org/%E5%B0%8F%E7%B1%B3/api.json"
-    },
-    {
-      "sourceName": "肥猫",
-      "sourceUrl": "http://xn--z7x900a.net/"
-    },
-    {
-      "sourceName": "分享者",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/001.json"
-    },
-    {
-      "sourceName": "高天流云",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-    },
-    {
-      "sourceName": "心魔📚在线",
-      "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
-    },
-    {
-      "sourceName": "请勿贩卖📚在线",
-      "sourceUrl": "http://zhangqun1818.serv00.net/zq/api.json"
-    },
-    {
-      "sourceName": "香雅情线路",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
-    },
-    {
-      "sourceName": "小盒子",
-      "sourceUrl": "http://xhztv.top/xhz/"
-    },
-    {
-      "sourceName": "一木线路",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json"
-    },
-    {
-      "sourceName": "蜂蜜线路",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
-    },
-    {
-      "sourceName": "备用多仓2",
-      "sourceUrl": "https://dxawi.github.io/0/0.json"
-    },
-    {
-      "sourceName": "FongMI线路",
-      "sourceUrl": "https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
+      "sourceName": "动漫城接口",
+      "sourceUrl": "https://www.yingm.cc/dm/dm.json"
     },
     {
       "sourceName": "高天流云 XYQ",
       "sourceUrl": "https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
     },
     {
-      "sourceName": "王二小🐮",
-      "sourceUrl": "https://9280.kstore.vip/aiwex.json"
+      "sourceName": "牛儿",
+      "sourceUrl": "https://9280.kstore.space/wex.json"
     },
     {
-      "sourceName": "网络🤓",
-      "sourceUrl": "https://8815.kstore.vip/tvbox/wmz"
+      "sourceName": "摸鱼儿",
+      "sourceUrl": "https://6800.kstore.vip/fish.json"
     },
     {
-      "sourceName": "PG⚪",
-      "sourceUrl": "https://www.252035.xyz/p/jsm.json"
-    },
-    {
-      "sourceName": "真心🌱",
-      "sourceUrl": "https://www.252035.xyz/z/FongMi.json"
-    },
-    {
-      "sourceName": "小马影视线路",
-      "sourceUrl": "https://szyyds.cn/tv/x.json"
+      "sourceName": "短剧2",
+      "sourceUrl": "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json"
     },
     {
       "sourceName": "高天流云js",
       "sourceUrl": "https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
     },
     {
-      "sourceName": "肥猫",
-      "sourceUrl": "http://肥猫.net/tv"
-    },
-    {
-      "sourceName": "小米",
-      "sourceUrl": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
-    },
-    {
-      "sourceName": "少儿频道",
-      "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json"
-    },
-    {
-      "sourceName": "高天流云XYQ",
-      "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
-    },
-    {
-      "sourceName": "香雅情线路",
-      "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-    },
-    {
-      "sourceName": "心魔线路",
-      "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
-    },
-    {
       "sourceName": "PG one",
       "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"
     },
     {
-      "sourceName": "小马📚在线",
-      "sourceUrl": "http://szyyds.cn/tv/x.json"
-    },
-    {
-      "sourceName": "香佬线路",
-      "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json"
-    },
-    {
-      "sourceName": "老刘线路",
-      "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json"
-    },
-    {
-      "sourceName": "高天流云js",
-      "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-    },
-    {
-      "sourceName": "ok线路2",
-      "sourceUrl": "https://gist.githubusercontent.com/ph7368/20ee6c7b64d77d82f8f4162cdd04ad61/raw/gistfile1.txt"
-    },
-    {
-      "sourceName": "my interface",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c01.json"
-    },
-    {
-      "sourceName": "软件内置源",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c02.json"
+      "sourceName": "荷城茶秀3",
+      "sourceUrl": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json"
     },
     {
       "sourceName": "软件哥哥",
       "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c03.json"
     },
     {
-      "sourceName": "科技长青",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c04.json"
+      "sourceName": "PG⚪",
+      "sourceUrl": "https://www.252035.xyz/p/jsm.json"
+    },
+    {
+      "sourceName": "香雅情",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+    },
+    {
+      "sourceName": "11号托管源",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
+    },
+    {
+      "sourceName": "小盒子",
+      "sourceUrl": "http://xhztv.top/xhz/"
+    },
+    {
+      "sourceName": "真心🌱",
+      "sourceUrl": "https://www.252035.xyz/z/FongMi.json"
+    },
+    {
+      "sourceName": "香佬线路",
+      "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json"
+    },
+    {
+      "sourceName": "七夏",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.json"
+    },
+    {
+      "sourceName": "高天流云",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
+    },
+    {
+      "sourceName": "金鹰",
+      "sourceUrl": "http://550.3vcn.work/wdjyys.json"
+    },
+    {
+      "sourceName": "分享者",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/001.json"
+    },
+    {
+      "sourceName": "少儿频道",
+      "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json"
+    },
+    {
+      "sourceName": "4K小盒子",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c26.json"
+    },
+    {
+      "sourceName": "寳盒📚拾光仓库",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c29.json"
+    },
+    {
+      "sourceName": "盒子迷PG在线包",
+      "sourceUrl": "https://xn--i8sz35d1yr.top/PG/jsm.json"
+    },
+    {
+      "sourceName": "一木线路",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json"
+    },
+    {
+      "sourceName": "心魔📚在线",
+      "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
+    },
+    {
+      "sourceName": "蜂蜜线路",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
+    },
+    {
+      "sourceName": "小米2",
+      "sourceUrl": "https://play.iptv365.org/%E5%B0%8F%E7%B1%B3/api.json"
     },
     {
       "sourceName": "挺好分享",
       "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c05.json"
     },
     {
-      "sourceName": "挺好",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c06.json"
+      "sourceName": "肥猫(临时)",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c21.json"
     },
     {
-      "sourceName": "1号VIP源",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c07.json"
+      "sourceName": "小米",
+      "sourceUrl": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
     },
     {
       "sourceName": "小凯📚在线",
       "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c08.json"
     },
     {
-      "sourceName": "业余",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c09.json"
+      "sourceName": "肥猫",
+      "sourceUrl": "http://肥猫.net/tv"
     },
     {
-      "sourceName": "拾光",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c10.json"
+      "sourceName": "潇洒Github备用",
+      "sourceUrl": "https://g.33445500.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json"
+    },
+    {
+      "sourceName": "摸鱼",
+      "sourceUrl": "https://play.iptv365.org/%E6%91%B8%E9%B1%BC%E5%84%BF/api.json"
     },
     {
       "sourceName": "环宇轩",
       "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c11.json"
     },
     {
-      "sourceName": "备用📚在线",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c12.json"
+      "sourceName": "软件内置源",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c02.json"
     },
     {
-      "sourceName": "神仙",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c13.json"
+      "sourceName": "南风3",
+      "sourceUrl": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json"
     },
     {
-      "sourceName": "月光📚在线",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c14.json"
+      "sourceName": "饭太硬",
+      "sourceUrl": "https://qist.wyfc.qzz.io/fty.json"
     },
     {
-      "sourceName": "盒子迷线路",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c15.json"
+      "sourceName": "南风2",
+      "sourceUrl": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
     },
     {
-      "sourceName": "寳盒📚在线",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c16.json"
+      "sourceName": "拾光",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c10.json"
+    },
+    {
+      "sourceName": "Clun在线",
+      "sourceUrl": "https://clun.top/box.json"
+    },
+    {
+      "sourceName": "小马",
+      "sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/xiaoma.json"
+    },
+    {
+      "sourceName": "业余",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c09.json"
+    },
+    {
+      "sourceName": "荐片",
+      "sourceUrl": "https://tv.203511.xyz/0821.json"
+    },
+    {
+      "sourceName": "神秘大佬",
+      "sourceUrl": "https://g.33445500.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json"
+    },
+    {
+      "sourceName": "荷城茶秀",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c18.json"
+    },
+    {
+      "sourceName": "请勿贩卖📚在线",
+      "sourceUrl": "http://zhangqun1818.serv00.net/zq/api.json"
     },
     {
       "sourceName": "荷城茶秀(备用)",
       "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c17.json"
     },
     {
-      "sourceName": "荷城茶秀",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c18.json"
+      "sourceName": "备用多仓2",
+      "sourceUrl": "https://dxawi.github.io/0/0.json"
+    },
+    {
+      "sourceName": "神仙",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c13.json"
+    },
+    {
+      "sourceName": "my interface",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c01.json"
+    },
+    {
+      "sourceName": "乐哥短剧",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c30.json"
+    },
+    {
+      "sourceName": "盒子迷线路",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c15.json"
+    },
+    {
+      "sourceName": "科技长青",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c04.json"
     },
     {
       "sourceName": "菜妮丝2",
@@ -341,44 +245,16 @@
       "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c20.json"
     },
     {
-      "sourceName": "肥猫(临时)",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c21.json"
+      "sourceName": "ok线路2",
+      "sourceUrl": "https://gist.githubusercontent.com/ph7368/20ee6c7b64d77d82f8f4162cdd04ad61/raw/gistfile1.txt"
     },
     {
       "sourceName": "讴歌",
       "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c22.json"
     },
     {
-      "sourceName": "小盒子4K",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c23.json"
-    },
-    {
-      "sourceName": "拾光趣乐屋",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c24.json"
-    },
-    {
       "sourceName": "网盘📚拾光仓库",
       "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c25.json"
-    },
-    {
-      "sourceName": "4K小盒子",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c26.json"
-    },
-    {
-      "sourceName": "月光📚拾光仓库",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c27.json"
-    },
-    {
-      "sourceName": "月光宝盒",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c28.json"
-    },
-    {
-      "sourceName": "寳盒📚拾光仓库",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c29.json"
-    },
-    {
-      "sourceName": "乐哥短剧",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/xiaobaidian/tvbox-multirepo@main/cleaned/c30.json"
     }
   ]
 }
