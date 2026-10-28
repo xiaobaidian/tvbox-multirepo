@@ -360,16 +360,6 @@
    "jar": "https://raw.liucn.cc/box/libs/jar/Panda.jar"
   },
   {
-   "key": "csp_Netfixtv",
-   "name": "💌┃至臻┃影视",
-   "type": 3,
-   "api": "csp_Netfixtv",
-   "playerType": 2,
-   "filterable": 1,
-   "ext": "",
-   "jar": "https://raw.liucn.cc/box/libs/jar/Panda.jar"
-  },
-  {
    "key": "csp_Vidhub2",
    "name": "🎼┃Vid┃影视",
    "type": 3,
@@ -2086,18 +2076,6 @@
    "jar": "https://raw.liucn.cc/box/fty.jar"
   },
   {
-   "key": "MV_vod",
-   "name": "🎶明星┃MV",
-   "type": 1,
-   "api": "https://mv.wogg.link/mv/vod",
-   "style": {
-    "type": "oval"
-   },
-   "searchable": 1,
-   "quickSearch": 0,
-   "changeable": 0
-  },
-  {
    "key": "csp_Yj1211",
    "name": "📽️网红┃直播",
    "type": 3,
@@ -2596,15 +2574,6 @@
    "filterable": 1,
    "jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar",
    "ext": "./libs/hccx/女团.json"
-  },
-  {
-   "key": "MV_vod",
-   "name": "🎹┃MTV┃合集",
-   "type": 1,
-   "api": "https://mv.wogg.link/mv/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
   },
   {
    "key": "csp_Bili_MTV",
