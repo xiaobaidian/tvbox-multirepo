@@ -595,33 +595,6 @@
    "ext": "./json/bilijihe.json"
   },
   {
-   "key": "wogg",
-   "name": "💂┃玩偶┃哥哥",
-   "type": 3,
-   "api": "csp_Wogg",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "timeout": 30,
-   "ext": {
-    "site": "https://wogg.xxooo.cf,https://www.wogg.bf,https://woggpan.333232.xyz,https://woggapi.888484.xyz,https://www.wogg.lol,https://www.wogg.net"
-   },
-   "jar": "https://ncstatic.clewm.net/rsrc/2026/0508/10/56d0b667615145949789418bff9f22a5.png"
-  },
-  {
-   "key": "木偶哥哥",
-   "name": "🧸┃木偶┃哥哥",
-   "type": 3,
-   "api": "csp_Mogg",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "http://muou.6qu.top,http://123.666291.xyz,https://mogg.5568.eu.org,https://mo.91muou.icu,https://mo.666291.xyz"
-   },
-   "jar": "https://ncstatic.clewm.net/rsrc/2026/0508/10/56d0b667615145949789418bff9f22a5.png"
-  },
-  {
    "key": "ZXZJ",
    "name": "🎞┃在线┃之家",
    "api": "csp_Zxzj",
