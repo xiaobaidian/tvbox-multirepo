@@ -16,7 +16,8 @@
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "本地",
@@ -24,7 +25,8 @@
       "type": 3,
       "api": "csp_Local",
       "searchable": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "直播转点播",
@@ -32,7 +34,8 @@
       "type": 3,
       "searchable": 0,
       "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/live2vod.js",
-      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/feimaolive.json"
+      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/feimaolive.json",
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_PanShare",
@@ -40,7 +43,8 @@
       "type": 3,
       "api": "csp_PanShare",
       "searchable": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_PgDouban",
@@ -52,7 +56,8 @@
       "ext": {
         "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json",
         "channel": "tgsearchers3"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Pg夸克",
@@ -64,7 +69,8 @@
       "ext": {
         "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json",
         "channel": "PanjClub,guoman4K,alyp_1"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Pg优熙",
@@ -76,7 +82,8 @@
       "ext": {
         "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json",
         "channel": "yunpanuc"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Pg百度",
@@ -88,7 +95,8 @@
       "ext": {
         "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json",
         "channel": "BaiduCloudDisk,Baidu_Netdisk,bdwpzhpd"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Pg123",
@@ -100,7 +108,8 @@
       "ext": {
         "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json",
         "channel": "zyfb123,xx123pan,zyzhpd123,yp123pan"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Pg天翼",
@@ -112,7 +121,8 @@
       "ext": {
         "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json",
         "channel": "cloudtianyi,txtyzy,peccxinpd,yunpan189,tianyirigeng,tyypzhpd"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Pg阿里",
@@ -124,7 +134,8 @@
       "ext": {
         "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json",
         "channel": "shareAliyun,zaihuayun"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Pg移动",
@@ -136,7 +147,8 @@
       "ext": {
         "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json",
         "channel": "yunpan139,ydypzyfx"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "夸克推送",
@@ -181,7 +193,8 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json"
+      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json",
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Panta91",
@@ -198,7 +211,8 @@
         "sites": "https://www.91panta.cn",
         "proxy": "noproxy",
         "classes": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/panta.json"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_GuanYing",
@@ -211,7 +225,8 @@
         "cookie": "",
         "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/guanying.json",
         "sites": "https://www.gyg.la,https://www.gyg.si,https://www.gying.net,https://www.gying.org,https://www.gying.si,https://www.gying.in"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_BixBiy",
@@ -228,7 +243,8 @@
         "sites": "https://www.bixbiy.com",
         "proxy": "noproxy",
         "classes": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/bixbiy.json"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Wofox",
@@ -241,7 +257,8 @@
       "ext": {
         "sites": "",
         "proxy": "proxy"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Xxzn",
@@ -254,7 +271,8 @@
       "ext": {
         "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/xxzn.json",
         "sites": "https://xuexizhinan.com"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Leijing",
@@ -271,7 +289,8 @@
         "sites": "https://www.leijing.xyz,https://www.leijing1.com,https://leijing.xyz,https://leijing1.com",
         "proxy": "noproxy",
         "classes": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/leijing.json"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Wogg",
@@ -284,7 +303,8 @@
       "ext": {
         "sites": "https://wogg.xxooo.cf",
         "proxy": "noproxy"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_YHDM",
@@ -292,7 +312,8 @@
       "type": 3,
       "api": "csp_YHDM",
       "searchable": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Jianpian",
@@ -304,7 +325,8 @@
       "ext": {
         "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/jianpian.json",
         "sites": "https://api.ztcgi.com"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Guazi",
@@ -312,7 +334,8 @@
       "type": 3,
       "api": "csp_Guazi",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_DuanJu",
@@ -320,7 +343,8 @@
       "type": 3,
       "api": "csp_DuanJu",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "短剧AI",
@@ -332,7 +356,8 @@
       "changeable": 1,
       "ext": {
         "classes": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/duanjucen.json"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_PanSou",
@@ -344,7 +369,8 @@
       "ext": {
         "api": "https://so.252035.xyz",
         "limit": 3
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "欧歌网盘",
@@ -357,7 +383,8 @@
       "ext": {
         "sites": "https://woog.nxog.eu.org",
         "proxy": "noproxy"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "蜡笔网盘",
@@ -370,7 +397,8 @@
       "ext": {
         "sites": "https://feimao666.fun",
         "proxy": "noproxy"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "二小网盘",
@@ -383,7 +411,8 @@
       "ext": {
         "sites": "http://2xiaopan.fun",
         "proxy": "noproxy"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "木偶网盘",
@@ -396,7 +425,8 @@
       "ext": {
         "sites": "https://www.muou.site",
         "proxy": "noproxy"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "至臻网盘",
@@ -409,7 +439,8 @@
       "ext": {
         "sites": "https://mihdr.top",
         "proxy": "noproxy"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "金牌影院",
@@ -422,7 +453,8 @@
         "host": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
         "name": "金牌影院（请断网再安装）",
         "version": "4.2.0"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "mifun",
@@ -434,7 +466,8 @@
       "ext": {
         "host": "https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt",
         "datakey": "GETMIFUNGEIMIFUN"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "云云",
@@ -447,7 +480,8 @@
         "host": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
         "datakey": "staraugust123456",
         "api": 2
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "布雷4KAPP",
@@ -460,7 +494,8 @@
         "host": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt",
         "datakey": "5f2b7ed203a3a581",
         "api": 2
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "仓鼠4K",
@@ -473,7 +508,8 @@
         "host": "https://hk421appcms.cs4k.top",
         "datakey": "da61247f5b662597",
         "api": "2"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "囧次元动漫",
@@ -485,7 +521,8 @@
       "ext": {
         "host": "http://ys.xiaos12.cn",
         "datakey": "chfgjfrhhf628vw1"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "Max",
@@ -499,7 +536,8 @@
         "api": "http://yjyi.juyongjiu.com:80/icciu_api.php/v1.vod",
         "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
         "apisignkey": "lvdoutv-1.0.0"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "森林视频",
@@ -512,7 +550,8 @@
         "deviceid": "ce8bd1f9cd8cf302",
         "versionCode": "10000",
         "UMENG_CHANNEL": "semd10"
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "狐狸磁力",
@@ -583,42 +622,48 @@
       "name": "🐸爱看┃网盘",
       "type": 3,
       "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/drpy2.min.js",
-      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/爱看资源网.js"
+      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/爱看资源网.js",
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "夸克影视",
       "name": "💕夸克┃影视",
       "type": 3,
       "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/drpy2.min.js",
-      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/夸克影视.js"
+      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/夸克影视.js",
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "努努影院",
       "name": "💋努努┃影院",
       "type": 3,
       "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/drpy2.min.js",
-      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/努努影院.js"
+      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/努努影院.js",
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "人人电影",
       "name": "👰人人┃电影",
       "type": 3,
       "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/drpy2.min.js",
-      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/人人电影.js"
+      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/人人电影.js",
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "泥泥视频",
       "name": "🍋泥泥┃视频",
       "type": 3,
       "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/drpy2.min.js",
-      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/泥泥视频.js"
+      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/泥泥视频.js",
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "稀饭动漫",
       "name": "🎉稀饭┃动漫",
       "type": 3,
       "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/drpy2.min.js",
-      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/稀饭动漫.js"
+      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/稀饭动漫.js",
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "py_4K影院",
@@ -627,7 +672,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "type": 3
+      "type": 3,
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "py_饭团PY",
@@ -636,7 +682,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "type": 3
+      "type": 3,
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "py_两个BTPY",
@@ -645,7 +692,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "type": 3
+      "type": 3,
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "py_盘友圈",
@@ -654,7 +702,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "type": 3
+      "type": 3,
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/py/米盘搜.py",
@@ -663,7 +712,8 @@
       "name": "😳米盘┃搜索",
       "quickSearch": 1,
       "searchable": 1,
-      "type": 3
+      "type": 3,
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Bili",
@@ -678,7 +728,8 @@
       "style": {
         "type": "rect",
         "ratio": 1.333
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Biliyy",
@@ -693,7 +744,8 @@
       "style": {
         "type": "rect",
         "ratio": 1.333
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_mtv",
@@ -708,7 +760,8 @@
       "style": {
         "type": "rect",
         "ratio": 1.333
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_bilirt",
@@ -723,7 +776,8 @@
       "style": {
         "type": "rect",
         "ratio": 1.333
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_bilims",
@@ -738,7 +792,8 @@
       "style": {
         "type": "rect",
         "ratio": 1.333
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "爱上听书",
@@ -746,7 +801,8 @@
       "type": 3,
       "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/drpy2.min.js",
       "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/爱上听书.js",
-      "playerType": "2"
+      "playerType": "2",
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_Jzb",
@@ -757,7 +813,8 @@
       "changeable": 0,
       "ext": {
         "sites": ""
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "csp_ShuaiJiao",
@@ -768,7 +825,8 @@
       "changeable": 0,
       "ext": {
         "sites": ""
-      }
+      },
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "采集之王",
@@ -779,7 +837,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 1,
-      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/采集之王.js?type=url&params=.https://bitbucket.org/guot55/ygbh/raw/main/pro/json/采集.json"
+      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/js/采集之王.js?type=url&params=.https://bitbucket.org/guot55/ygbh/raw/main/pro/json/采集.json",
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "AList",
@@ -791,7 +850,8 @@
       "changeable": 1,
       "timeout": 60,
       "playerType": 2,
-      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/alist.json"
+      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/alist.json",
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "WebDAV",
@@ -803,7 +863,8 @@
       "changeable": 1,
       "timeout": 60,
       "playerType": 2,
-      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/webdav.json"
+      "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/webdav.json",
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     },
     {
       "key": "push_agent",
@@ -812,7 +873,8 @@
       "api": "csp_Push",
       "searchable": 0,
       "changeable": 0,
-      "timeout": 60
+      "timeout": 60,
+      "jar": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar"
     }
   ],
   "doh": [
