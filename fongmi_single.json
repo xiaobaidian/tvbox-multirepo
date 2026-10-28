@@ -8935,14 +8935,6 @@
    "jar": "http://xhztv.top/xhz/Yoursmile.jar"
   },
   {
-   "key": "豆瓣",
-   "name": "🐼┃QQ频道：肥猫宝贝┃",
-   "type": 3,
-   "api": "csp_Douban",
-   "searchable": 0,
-   "jar": "https://ss1.eisite.cn/autoupload/f/eja2s/20261027/xQ1x/0X0/rtdf12.png"
-  },
-  {
    "key": "潮流",
    "name": "🏜┃潮流┃APP",
    "type": 3,
@@ -15334,22 +15326,6 @@
    "playUrl": "",
    "searchable": 1,
    "quickSearch": 1
-  },
-  {
-   "key": "567🎬",
-   "name": "📚七夏┃567",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": {
-    "分类url": "https://www.567dyy.com/show/{cateId}--------{catePg}---.html",
-    "分类": "电影&电视剧&综艺&动漫",
-    "分类值": "1&2&3&4",
-    "公众号卫华正能量大爱学堂出品": ""
-   },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.jar"
   },
   {
    "key": "九一影视",
