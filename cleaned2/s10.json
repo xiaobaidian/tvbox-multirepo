@@ -500,20 +500,6 @@
    "jar": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/spider.jar"
   },
   {
-   "key": "玩偶gg",
-   "name": "👽玩偶",
-   "type": 3,
-   "api": "csp_Wogg",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": {
-    "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-    "siteUrl": "https://wogg.xxooo.cf",
-    "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
-   },
-   "jar": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/spider.jar"
-  },
-  {
    "key": "片库",
    "name": "🅿片库",
    "type": 3,
@@ -524,90 +510,6 @@
    "ext": {
     "siteUrl": "https://www.qwnull.com",
     "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
-   },
-   "jar": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/spider.jar"
-  },
-  {
-   "key": "二小",
-   "name": "😈二小",
-   "type": 3,
-   "api": "csp_kongbai",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": {
-    "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-    "siteUrl": "https://erxiaofn.click/",
-    "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
-   },
-   "jar": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/spider.jar"
-  },
-  {
-   "key": "至臻",
-   "name": "💯至臻",
-   "type": 3,
-   "api": "csp_kongbai",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": {
-    "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-    "siteUrl": "https://www.mihdr.top",
-    "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
-   },
-   "jar": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/spider.jar"
-  },
-  {
-   "key": "蜡笔",
-   "name": "🖍︎蜡笔",
-   "type": 3,
-   "api": "csp_kongbai",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": {
-    "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-    "siteUrl": "https://feimao666.fun",
-    "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
-   },
-   "jar": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/spider.jar"
-  },
-  {
-   "key": "木偶",
-   "name": "🧸木偶",
-   "type": 3,
-   "api": "csp_kongbai",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": {
-    "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-    "siteUrl": "http://123.666291.xyz",
-    "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
-   },
-   "jar": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/spider.jar"
-  },
-  {
-   "key": "欧哥",
-   "name": "🅾欧哥",
-   "type": 3,
-   "api": "csp_kongbai",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": {
-    "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-    "siteUrl": "https://woog.nxog.eu.org",
-    "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
-   },
-   "jar": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/spider.jar"
-  },
-  {
-   "key": "多多",
-   "name": "🌟多多",
-   "type": 3,
-   "api": "csp_kongbai",
-   "searchable": 1,
-   "changeable": 0,
-   "ext": {
-    "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-    "siteUrl": "https://tv.yydsys.top",
-    "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
    },
    "jar": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/spider.jar"
   },
