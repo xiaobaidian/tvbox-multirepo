@@ -32,13 +32,15 @@
       "style": {
         "type": "rect",
         "ratio": 1.597
-      }
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "本地",
       "name": "📁本地┃视频",
       "type": 3,
-      "api": "csp_LocalFile"
+      "api": "csp_LocalFile",
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "至臻",
@@ -54,7 +56,8 @@
           "http://118.89.172.248:22776"
         ]
       },
-      "hide": 1
+      "hide": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "jiansou",
@@ -86,7 +89,8 @@
           "https://woggpan.xxooo.cf"
         ]
       },
-      "hide": 1
+      "hide": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "木偶",
@@ -105,7 +109,8 @@
           "https://www.muou.asia"
         ]
       },
-      "hide": 1
+      "hide": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "多多",
@@ -123,7 +128,8 @@
           "https://tv.214521.xyz"
         ]
       },
-      "hide": 1
+      "hide": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "快映",
@@ -139,7 +145,8 @@
           "http://38.76.197.172:12521"
         ]
       },
-      "hide": 1
+      "hide": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "虎斑",
@@ -155,7 +162,8 @@
           "http://38.76.197.172:16969"
         ]
       },
-      "hide": 1
+      "hide": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "双星",
@@ -164,7 +172,8 @@
       "api": "csp_ShuangXing",
       "style": {
         "type": "list"
-      }
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "JinPai",
@@ -203,7 +212,8 @@
         "version": "1.0.0.4",
         "decrypt": "1"
       },
-      "hide": 1
+      "hide": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "热播影视",
@@ -216,7 +226,8 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "hide": 1
+      "hide": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "剧圈99",
@@ -232,7 +243,8 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "hide": 1
+      "hide": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "天堂",
@@ -253,7 +265,8 @@
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "hide": 1
+      "hide": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "苹果",
@@ -274,7 +287,8 @@
         "version": "1.0.0.3",
         "decrypt": "0"
       },
-      "hide": 1
+      "hide": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "爱看机器人",
@@ -283,25 +297,29 @@
       "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "瓜子影视",
       "name": "🍁┃瓜子┃影视",
       "type": 3,
-      "api": "csp_Gz360"
+      "api": "csp_Gz360",
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "独播影视",
       "name": "🍁┃独播┃影视",
       "type": 3,
-      "api": "csp_Duboku"
+      "api": "csp_Duboku",
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "荐片",
       "name": "🍁┃荐片┃磁力",
       "api": "csp_JianPian",
-      "type": 3
+      "type": 3,
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "世界听书",
@@ -310,7 +328,8 @@
       "api": "csp_TingShijie",
       "style": {
         "type": "list"
-      }
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "feifan",
@@ -362,7 +381,7 @@
         "quality": "1080p",
         "danmu": false
       },
-      "jar": "https://qiniu.gongxueyun.com/upload/5695330/2026-09-18/leave/466454997_2_1789736334293.jar;md5;835b242eab0da4d3402724dd4705a9e8"
+      "jar": "https://qiniu.gongxueyun.com/upload/5695330/2026-09-18/leave/466454997_2_1789736334293.jar"
     },
     {
       "key": "DJHub",
@@ -374,7 +393,7 @@
       "genre": "shortdrama",
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://qiniu.gongxueyun.com/upload/5695330/2026-09-18/leave/466454997_2_1789736334293.jar;md5;835b242eab0da4d3402724dd4705a9e8"
+      "jar": "https://qiniu.gongxueyun.com/upload/5695330/2026-09-18/leave/466454997_2_1789736334293.jar"
     },
     {
       "key": "戏 曲",
@@ -467,7 +486,8 @@
       "changeable": 0,
       "ext": {
         "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
-      }
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "小学课堂",
@@ -483,7 +503,8 @@
       "changeable": 0,
       "ext": {
         "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
-      }
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "初中课堂",
@@ -499,7 +520,8 @@
       "changeable": 0,
       "ext": {
         "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
-      }
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "高中教育",
@@ -515,7 +537,8 @@
       "changeable": 0,
       "ext": {
         "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
-      }
+      },
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
       "key": "push_agent",
@@ -526,7 +549,8 @@
       "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": ""
+      "ext": "",
+      "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     }
   ],
   "parses": [
