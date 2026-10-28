@@ -10,7 +10,8 @@
       "api": "csp_Push",
       "searchable": 0,
       "filterable": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/starlink.jar"
     }
   ],
   "lives": [
