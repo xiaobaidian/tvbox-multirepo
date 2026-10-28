@@ -1,117 +1,26 @@
 {
-  "spider": "./hccx/HeChengChaXiu.jar",
-  "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
-  "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
+  "spider": "./lib/HeChengChaXiu.jar",
+  "wallpaper": "https://yun.chuqiuyu.tk",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "./lib/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    }
+  ],
+  "warningText": "接口完全免费，切勿付费购买！",
   "sites": [
     {
       "key": "js_豆瓣热播",
       "name": "🅱️追剧影院|T热播",
       "type": 3,
-      "api": "./hccx/Api.js",
+      "api": "./lib/apiv43Api.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./hccx/Doubanrebo.js"
-    },
-    {
-      "key": "Wogg",
-      "name": "🅱️玩偶哥哥|T追剧",
-      "type": 3,
-      "api": "csp_XPathAli",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./hccx/玩偶哥哥.json"
-    },
-    {
-      "key": "Czspp",
-      "name": "🅱️厂长影视|T追剧",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.czzy88.com/"
-    },
-    {
-      "key": "csp_骚火",
-      "name": "🅱️骚火影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/骚火影视.json"
-    },
-    {
-      "key": "csp_威士",
-      "name": "🅱️威士影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/威士影视.json"
-    },
-    {
-      "key": "csp_Free",
-      "name": "🅱️Free影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/Free影视.json"
-    },
-    {
-      "key": "csp_xBPQ_玖八",
-      "name": "🅱️玖八影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/98影视.json"
-    },
-    {
-      "key": "csp_蛋蛋",
-      "name": "🅱️蛋蛋影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/蛋蛋影视.json"
-    },
-    {
-      "key": "csp_星辰",
-      "name": "🅱️星辰影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/星辰影视.json"
-    },
-    {
-      "key": "csp_TVB",
-      "name": "🅱️TVB云播|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/TVB云播.json"
-    },
-    {
-      "key": "csp_农民",
-      "name": "🅱️农民影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/农民影视.json"
+      "ext": "./lib/Doubanrebo.js",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "csp_xBPQ_奇优",
@@ -121,237 +30,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/奇优影视.json"
-    },
-    {
-      "key": "csp_疯狗",
-      "name": "🅱️疯狗影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/疯狗影视.json"
-    },
-    {
-      "key": "csp_万达",
-      "name": "🅱️万达影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/万达影视.json"
-    },
-    {
-      "key": "csp_爱看",
-      "name": "🅱️爱看影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/爱看影视.json"
-    },
-    {
-      "key": "csp_七新",
-      "name": "🅱️七新影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/七新影视.json"
-    },
-    {
-      "key": "csp_超前",
-      "name": "🅱️超前点播|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/超前B站.json"
-    },
-    {
-      "key": "csp_热播",
-      "name": "🅱️热播之家|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/热播之家.json"
-    },
-    {
-      "key": "csp_玖摇",
-      "name": "🅱️玖摇影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/91影视.json"
-    },
-    {
-      "key": "csp_不卡",
-      "name": "🅱️不卡影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/真不卡影视.json"
-    },
-    {
-      "key": "csp_午舞",
-      "name": "🅱️午舞影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/五五影视.json"
-    },
-    {
-      "key": "csp_师兄",
-      "name": "🅱️师兄影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/大师兄影视.json"
-    },
-    {
-      "key": "csp_xBPQ_视觉",
-      "name": "🅱️视觉影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/新视觉影视.json"
-    },
-    {
-      "key": "csp_圣城",
-      "name": "🅱️圣城影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/圣城影视.json"
-    },
-    {
-      "key": "csp_好戏",
-      "name": "🅱️好戏影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/好戏影视.json"
-    },
-    {
-      "key": "csp_七月",
-      "name": "🅱️七月影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/七月影视.json"
-    },
-    {
-      "key": "csp_佳能",
-      "name": "🅱️佳能影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/348影视.json"
-    },
-    {
-      "key": "csp_土豪",
-      "name": "🅱️土豪影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/土豪影视.json"
-    },
-    {
-      "key": "csp_觅知",
-      "name": "🅱️觅知影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/觅知影视.json"
-    },
-    {
-      "key": "csp_达龟",
-      "name": "🅱️达龟影院|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/达达龟影视.json"
-    },
-    {
-      "key": "csp_七年",
-      "name": "🅱️七年影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/七年影视.json"
-    },
-    {
-      "key": "csp_黑狐",
-      "name": "🅱️黑狐影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/黑狐影视.json"
-    },
-    {
-      "key": "csp_苹果",
-      "name": "🅱️苹果影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/苹果影视.json"
-    },
-    {
-      "key": "csp_米爱",
-      "name": "🅱️米爱影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/米爱影视.json"
-    },
-    {
-      "key": "csp_低端",
-      "name": "🅱️低端影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/低端影视.json"
+      "ext": "./lib/奇优影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "csp_乐猪",
@@ -361,7 +41,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/乐猪影视.json"
+      "ext": "./lib/乐猪影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_农民",
+      "name": "🅱️农民影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/农民影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "csp_花猫",
@@ -371,7 +63,349 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/花猫影视.json"
+      "ext": "./lib/花猫影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_好戏",
+      "name": "🅱️好戏影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/好戏影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_Free",
+      "name": "🅱️Free影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/Free影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "Wogg",
+      "name": "🅱️玩偶哥哥|T追剧",
+      "type": 3,
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/玩偶哥哥.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "影巢",
+      "name": "🅱️网盘影巢|T追剧",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "Czspp",
+      "name": "🅱️厂长影视|T追剧",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.cz01.fun/",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_热播",
+      "name": "🅱️热播之家|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/热播之家.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_七月",
+      "name": "🅱️七月影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/七月影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_日后",
+      "name": "🅱️日后影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/348影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_熊猫",
+      "name": "🅱️熊猫影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/熊猫影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_淘剧",
+      "name": "🅱️淘剧影院|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/淘剧影院.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_TVB",
+      "name": "🅱️TVB云播|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/TVB云播.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_光棍",
+      "name": "🅱️光棍影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/光棍影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_101",
+      "name": "🅱️摇玲影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/101影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_圣城",
+      "name": "🅱️圣城影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/圣城影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_007",
+      "name": "🅱️凌漆影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/007影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_土豪",
+      "name": "🅱️土豪影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/土豪影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_奥特",
+      "name": "🅱️奥特影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/奥特影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_兔年",
+      "name": "🅱️兔年影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/YYDS影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_345",
+      "name": "🅱️看片影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/345看片.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_91",
+      "name": "🅱️玖摇影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/91影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_七年",
+      "name": "🅱️七年影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/七年影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_酷茶",
+      "name": "🅱️酷茶影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/酷茶影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_真不卡",
+      "name": "🅱️不卡影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/真不卡影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_xBPQ_66",
+      "name": "🅱️鎏琉影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/66影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_明帝",
+      "name": "🅱️明帝影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/明帝影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_蛋蛋",
+      "name": "🅱️蛋蛋影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/蛋蛋影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_黑狐",
+      "name": "🅱️黑狐影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/黑狐影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_臭蛋",
+      "name": "🅱️臭蛋影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/臭蛋影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_苹果",
+      "name": "🅱️苹果影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/苹果影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_米爱",
+      "name": "🅱️米爱影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/米爱影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_视觉",
+      "name": "🅱️视觉影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/新视觉影视.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "csp_非凡",
@@ -381,7 +415,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/非凡资源网.json"
+      "ext": "./lib/非凡资源网.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "csp_量子",
@@ -391,7 +426,58 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/量子资源网.json"
+      "ext": "./lib/量子资源网.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "360",
+      "name": "🅱️360 官源|T追剧",
+      "type": 3,
+      "api": "csp_360",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "奇艺",
+      "name": "🅱️奇艺官源|T追剧",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "腾讯",
+      "name": "🅱️腾讯官源|T追剧",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "芒果",
+      "name": "🅱️芒果官源|T追剧",
+      "type": 3,
+      "api": "csp_MGTV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "优酷",
+      "name": "🅱️优酷官源|T追剧",
+      "type": 3,
+      "api": "csp_YOUKU",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "荐片",
@@ -400,7 +486,30 @@
       "api": "csp_RinHome",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "音范",
+      "name": "🅱️音范磁力|T追剧",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/音范磁力.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
+    },
+    {
+      "key": "蚂蚁",
+      "name": "🅱️蚂蚁磁力|T追剧",
+      "type": 3,
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/蚂蚁磁力.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "push_agent",
@@ -409,17 +518,19 @@
       "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
-      "key": "PanSearch",
-      "name": "🔍阿里|网盘搜",
+      "key": "Gitcafe",
+      "name": "🔍阿里|纸条搜",
       "type": 3,
-      "api": "csp_PanSearch",
+      "api": "csp_Paper",
       "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "PanSou",
@@ -427,9 +538,10 @@
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "UpYun",
@@ -437,19 +549,10 @@
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
-    },
-    {
-      "key": "YiSou",
-      "name": "🔍阿里|易搜搜",
-      "type": 3,
-      "api": "csp_YiSou",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$satoken=abfceef7-ca8f-40b6-afd8-5c11fab10336"
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "Zhaozy",
@@ -457,19 +560,10 @@
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$hccx$$$hccx"
-    },
-    {
-      "key": "Gitcafe",
-      "name": "🔍阿里|小纸条",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$ygfxz$$$66666",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "cctv",
@@ -478,7 +572,8 @@
       "api": "csp_CCTV",
       "searchable": 0,
       "filterable": 0,
-      "ext": "./hccx/央视大全.json"
+      "ext": "./lib/央视大全.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "py_cctv_少儿",
@@ -488,7 +583,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./hccx/py_央视少儿.py"
+      "ext": "./lib/py_央视少儿.py",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "央视经典",
@@ -498,7 +594,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/哔哩经典.json"
+      "ext": "./lib/哔哩经典.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "py_cctv_企鹅",
@@ -508,37 +605,41 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./hccx/py_企鹅体育.py"
+      "ext": "./lib/py_企鹅体育.py",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "mtv_xp_动漫巴士",
       "name": "🐼动漫丨巴士",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/动漫巴士.json"
+      "ext": "./lib/动漫巴士.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "mtv_xp_维奇动漫",
       "name": "🐼维奇丨动漫",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/维奇动漫.json"
+      "ext": "./lib/维奇动漫.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
-      "key": "csp_短剧",
-      "name": "🎧刷刷｜短剧",
+      "key": "csp_Yj1211",
+      "name": "🎧综合｜直播",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_Yj1211",
+      "playerType": 1,
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./hccx/短剧网.json"
+      "filterable": 0,
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "哔哩音乐",
@@ -548,7 +649,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/哔哩音乐.json"
+      "ext": "./lib/哔哩音乐.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "小灯塔科学",
@@ -558,7 +660,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/小灯塔科学.json"
+      "ext": "./lib/小灯塔科学.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "小灯塔地理",
@@ -568,7 +671,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/小灯塔地理.json"
+      "ext": "./lib/小灯塔地理.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "小灯塔百科",
@@ -578,7 +682,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/小灯塔百科.json"
+      "ext": "./lib/小灯塔百科.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "小灯塔国学",
@@ -588,7 +693,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/小灯塔国学.json"
+      "ext": "./lib/小灯塔国学.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "幼儿教育",
@@ -598,7 +704,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/哔哩幼小.json"
+      "ext": "./lib/哔哩幼小.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "哔哩小学",
@@ -608,7 +715,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/哔哩小学.json"
+      "ext": "./lib/哔哩小学.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "哔哩初中",
@@ -618,7 +726,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/哔哩初中.json"
+      "ext": "./lib/哔哩初中.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "哔哩高中",
@@ -628,7 +737,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/哔哩高中.json"
+      "ext": "./lib/哔哩高中.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "兴趣健身",
@@ -638,7 +748,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/哔哩健身.json"
+      "ext": "./lib/哔哩健身.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "相声小品",
@@ -648,7 +759,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/哔哩相声.json"
+      "ext": "./lib/哔哩相声.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "天下美食",
@@ -658,7 +770,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/哔哩美食.json"
+      "ext": "./lib/哔哩美食.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     },
     {
       "key": "戏曲杂苑",
@@ -668,7 +781,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./hccx/哔哩戏曲.json"
+      "ext": "./lib/哔哩戏曲.json",
+      "jar": "https://jihulab.com/z-blog/xh2/raw/main/lib/HeChengChaXiu.jar"
     }
   ],
   "parses": [
@@ -683,9 +797,70 @@
       "url": "Web"
     },
     {
-      "name": "茶王解析",
+      "name": "观音嗅探",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "茶桶解析",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url=",
+      "url": "http://119.91.123.253:1234/Api/cs.php?url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "xigua",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "盖碗解析",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "xigua",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "茶杯解析",
+      "type": 1,
+      "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4XY&url=",
       "ext": {
         "flag": [
           "qq",
@@ -723,34 +898,6 @@
           "芒果视频",
           "乐视视频"
         ]
-      }
-    },
-    {
-      "name": "盖碗解析",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "xigua",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
       }
     },
     {
@@ -1082,11 +1229,28 @@
   ],
   "rules": [
     {
-      "name": "lz",
+      "name": "米来",
+      "hosts": [
+        "zy.behds.cn"
+      ],
+      "regex": [
+        "#EXTINF"
+      ]
+    },
+    {
+      "name": "爱酷",
+      "hosts": [
+        "cdn.json.icu"
+      ],
+      "regex": [
+        "#EXTINF:1.000000,[\\s\\S]*?#EXT-X-ENDLIST"
+      ]
+    },
+    {
+      "name": "量子广告",
       "hosts": [
         "vip.lz",
-        "hd.lz",
-        "v.cdnlz"
+        "hd.lz"
       ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -1094,19 +1258,7 @@
       ]
     },
     {
-      "name": "蜗牛直连去广",
-      "hosts": [
-        "vip.123pan.cn",
-        "rescdn.wuxivlog.cn"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-      ]
-    },
-    {
-      "name": "ff",
+      "name": "非凡广告",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy"
@@ -1117,17 +1269,7 @@
       ]
     },
     {
-      "name": "bf",
-      "hosts": [
-        "bfzy",
-        "s5.bfzycdn"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "hs",
+      "name": "火山嗅探",
       "hosts": [
         "huoshan.com"
       ],
@@ -1136,23 +1278,12 @@
       ]
     },
     {
-      "name": "dy",
+      "name": "抖音嗅探",
       "hosts": [
         "douyin.com"
       ],
       "regex": [
         "is_play_url="
-      ]
-    },
-    {
-      "name": "cl",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
       ]
     }
   ],
