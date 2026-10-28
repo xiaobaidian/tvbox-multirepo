@@ -36,22 +36,6 @@
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.jar"
   },
   {
-   "key": "玩偶",
-   "name": "📚七夏┃玩偶",
-   "type": 3,
-   "api": "csp_WoGG",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xzwei528/qixia/main/jar/wogg.jar",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 0,
-   "ext": {
-    "Cloud-drive": "tvfan/Cloud-drive.txt",
-    "from": "4k|auto",
-    "siteUrl": "https://www.wogg.link/",
-    "danMu": "弹"
-   }
-  },
-  {
    "key": "360zy",
    "name": "📚七夏┃360",
    "type": 1,
