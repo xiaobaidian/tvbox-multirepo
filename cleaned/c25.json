@@ -1,0 +1,22 @@
+{
+  "spider": "./jar/dokilwss.jar",
+  "wallpaper": "https://api.nguaduot.cn/netbian/random",
+  "sites": [
+    {
+      "key": "dc",
+      "name": "如若配置失败\n请切换网络",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "hl",
+      "name": "专人维护—持续更新",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0
+    }
+  ]
+}
